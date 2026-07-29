@@ -1,7 +1,7 @@
 # BATC rolling 14-Day Stream Archive
 
 <p align="center">
-  <img src="Screenshot.png" width="50%"><br>
+  <img src="Screenshot2.png" width="50%"><br>
 ▶ Watch the screencast<br>
 https://github.com/user-attachments/assets/bcc7fbba-4d3a-4d7f-aca8-26cb16da497f</p>
 
