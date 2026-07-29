@@ -1,9 +1,9 @@
 # BATC rolling 14-Day Stream Archive
 
 <p align="center">
-  <img src="Screenshot.png" alt="BATC Archive Stream Viewer" width="900">
-</p>
-[▶ Watch the screencast](https://github.com/user-attachments/assets/bcc7fbba-4d3a-4d7f-aca8-26cb16da497f)
+  <img src="Screenshot.png" width="50%"><br>
+▶ Watch the screencast<br>
+https://github.com/user-attachments/assets/bcc7fbba-4d3a-4d7f-aca8-26cb16da497f</p>
 
 A frontend and backend system for automatically archiving **BATC (British Amateur Television Club)** live streams into a rolling **14-day Video On Demand (VOD)** archive.
 
