@@ -1,8 +1,9 @@
-# BATC Archive Stream Viewer
+# BATC rolling 14-Day Stream Archive
 
 <p align="center">
   <img src="Screenshot.png" alt="BATC Archive Stream Viewer" width="900">
 </p>
+[▶ Watch the screencast](https://github.com/user-attachments/assets/bcc7fbba-4d3a-4d7f-aca8-26cb16da497f)
 
 A frontend and backend system for automatically archiving **BATC (British Amateur Television Club)** live streams into a rolling **14-day Video On Demand (VOD)** archive.
 
@@ -72,6 +73,15 @@ The frontend provides access to the stored recordings through a simple web inter
 
 ---
 
+## How It Works
+
+1. The backend periodically checks BATC stream listings.
+2. New live streams are detected automatically.
+3. Active streams are recorded and stored.
+4. Metadata is saved alongside each recording.
+5. Recordings remain available for 14 days before being removed.
+6. The frontend presents the archive for playback.
+
 ## Installation
 
 ### Requirements
@@ -81,6 +91,19 @@ The frontend provides access to the stored recordings through a simple web inter
 - FFmpeg
 - Web server
 - Storage suitable for recorded video
+
+---
+
+## Deployment
+
+The archive server can run on a Linux machine or server with sufficient storage.
+
+The system requires:
+
+- Node.js
+- FFmpeg
+- Web server
+- Storage for recorded streams
 
 ---
 
