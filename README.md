@@ -5,6 +5,10 @@
 ▶ Watch the screencast<br>
 https://github.com/user-attachments/assets/bcc7fbba-4d3a-4d7f-aca8-26cb16da497f</p>
 
+Exactly why we need this system: https://github.com/user-attachments/assets/4b94e1a8-b136-4a84-9894-fd2028209320
+
+
+
 A frontend and backend system for automatically archiving **BATC (British Amateur Television Club)** live streams into a rolling **14-day Video On Demand (VOD)** archive.
 
 The system monitors available BATC streams, records transmissions as they appear, manages the archive retention period, and provides a web interface for browsing and watching recent broadcasts.
